@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/SPMS/static/css/main.bf8d7969.chunk.css",
-    "main.js": "/SPMS/static/js/main.7cdbdbb9.chunk.js",
-    "main.js.map": "/SPMS/static/js/main.7cdbdbb9.chunk.js.map",
+    "main.js": "/SPMS/static/js/main.f2301c6f.chunk.js",
+    "main.js.map": "/SPMS/static/js/main.f2301c6f.chunk.js.map",
     "runtime-main.js": "/SPMS/static/js/runtime-main.dc4d745c.js",
     "runtime-main.js.map": "/SPMS/static/js/runtime-main.dc4d745c.js.map",
-    "static/js/2.40b7bce5.chunk.js": "/SPMS/static/js/2.40b7bce5.chunk.js",
-    "static/js/2.40b7bce5.chunk.js.map": "/SPMS/static/js/2.40b7bce5.chunk.js.map",
+    "static/js/2.51998a8d.chunk.js": "/SPMS/static/js/2.51998a8d.chunk.js",
+    "static/js/2.51998a8d.chunk.js.map": "/SPMS/static/js/2.51998a8d.chunk.js.map",
     "index.html": "/SPMS/index.html",
-    "precache-manifest.26bd7ddfe4b1d834ff735a8fcf3385a2.js": "/SPMS/precache-manifest.26bd7ddfe4b1d834ff735a8fcf3385a2.js",
+    "precache-manifest.286a78c8beaccf61ee745eb8b0798a33.js": "/SPMS/precache-manifest.286a78c8beaccf61ee745eb8b0798a33.js",
     "service-worker.js": "/SPMS/service-worker.js",
     "static/css/main.bf8d7969.chunk.css.map": "/SPMS/static/css/main.bf8d7969.chunk.css.map",
-    "static/js/2.40b7bce5.chunk.js.LICENSE": "/SPMS/static/js/2.40b7bce5.chunk.js.LICENSE"
+    "static/js/2.51998a8d.chunk.js.LICENSE": "/SPMS/static/js/2.51998a8d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.dc4d745c.js",
-    "static/js/2.40b7bce5.chunk.js",
+    "static/js/2.51998a8d.chunk.js",
     "static/css/main.bf8d7969.chunk.css",
-    "static/js/main.7cdbdbb9.chunk.js"
+    "static/js/main.f2301c6f.chunk.js"
   ]
 }
